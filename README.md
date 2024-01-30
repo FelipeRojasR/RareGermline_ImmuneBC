@@ -4,12 +4,11 @@ The association between rare germline variants in (putative) predisposition gene
 
 # Contact
 Felipe Rojas-Rodriguez
-Netherlands Cancer Institute
-[f.rojas@nki.nl](f.rojas@nki.nl)
+Sanquin - Nederlandse organisatie van bloedbanken
 
 # Authors
 | Author                 | Role   | Description             |
 | :----                  | :----: | :----                   |
 | Felipe Rojas-Rodriguez | Author | Development             |
-| Sander Canisius        | Author | Development and review  |
+| Sander Canisius        | Author | Review                  |
 | Marjanka Schmidt       | Author | Review                  |

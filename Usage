@@ -1,0 +1,22 @@
+# This file describes the content of each of the files included in the current repository
+
+1. master.r: 
+2.
+3.
+4.
+5.
+6.
+
+Germline variants.r
+    - This file contains the calling and modifications of the missense and protein truncating variant files included in the BRIDGES project as given by BCAC. It is a standalone script and can be used without loading any prior file
+
+Distribution of scores.r
+    - This file contains the code required to produce the supplementary figure 1. Should be only called once the main dataset is loaded. 
+
+Specific measurements.r
+    - This file was constructed as a checkup file where its easy to compute the number of cases across different datasets. Should be only called once the main dataset is loaded. 
+
+Table 1.r
+    - This file contains the code for the table of characteristics. Should be only called once the main dataset is loaded. It is manually computed so must be carefully revised to match the main object.
+
+    
